@@ -1,4 +1,4 @@
-FROM nginx:1.15
+FROM nginx:1.17
 
 MAINTAINER Karl Hughes <khughes.me@gmail.com>
 
